@@ -1,0 +1,1 @@
+document.getElementsByClassName('post').innerHTML = "innocent"

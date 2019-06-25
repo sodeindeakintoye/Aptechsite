@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box
+}
+body{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.lis{
+    color: white
+}
+.sect{
+    width: 100%;
+}
+
+.alert{
+    width : 40%
+}
+.foms{
+    display: flex;
+    padding: 10px
+}
+
+#sea{
+    background-color: black;
+    position: sticky;
+    top: 0
+} 
+.layout{
+    display: flex;
+    margin: 0px;
+}
+.navigate{
+    display: flex;
+    list-style-type: none;
+    width: 100%;
+    color: white;
+    border: 1px solid grey
+}
+.navigate a{
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.navigate a:hover{
+    background-color: blue;
+    color: white
+   
+}
+
+.base{
+    background-color: red;
+    color: white;
+    border: 0.5px solid black;
+    list-style-type: none;
+    height: 200px;
+}
+
+
+
+.information{
+    background-color: yellow;
+
+}
+.feet{
+    width: 60%;
+    height: 200px
+}
+.fast{
+    width: 100%;
+    height : 150px
+}
+.divide{
+    width: 40%;
+    height: 200px
+}
+.knee{
+    color: white
+}
+.note{
+    display: flex;
+    background-color: red
+}
+.trip{
+    width:50%
+}
+.list{
+    list-style-type: none;
+    color: white
+}
+.sing{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none
+}
+
+.lost{
+    width:33%;
+    margin-bottom:15px
+}
+.bodies{
+    background-color: red;
+}
+.validateError{
+    border-color: #f00;
+}
+validstar{
+    color:red
+}
+
+.mains{
+    background-color: blue;
+    margin-top: 0px
+}
